@@ -1,0 +1,9 @@
+0 -> revisi unit
+1 -> proses telaah roren
+2 ->  proses  telaah ulang roren
+3 -> proses pengajuan itjen
+4 -> proses pengajuan dja
+5 -> proses pengesahan
+6 -> revisi disetujui
+7 -> ditolak DJA
+8 -> ditolak roren
